@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "home": "Home page",
+        "about": "About page",
+        "contacts": "Contacts page"
+    },
+    "messages": {
+        "welcome": "Welcome",
+        "currentLanguage": "Current language"
+    },
+    "actionTitles": {
+        "login": "Login",
+        "logout": "Logout",
+        "addTask": "Add task"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "home": "Головна сторінка",
+        "about": "Про нас",
+        "contacts": "Наші контакти"
+    },
+    "messages": {
+        "welcome": "Вітаємо на сайті",
+        "currentLanguage": "Пооточна мова"
+    },
+    "actionTitles": {
+        "login": "Увійти",
+        "logout": "Вийти",
+        "addTask": "Додати задачу"
+    }
+}
